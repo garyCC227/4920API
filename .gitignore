@@ -1,2 +1,4 @@
 venv/
-model/data
+model/data/data
+model/data/.ipynb_checkpoints
+model/data/test
